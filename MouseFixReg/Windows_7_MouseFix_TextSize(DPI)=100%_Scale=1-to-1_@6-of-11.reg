@@ -5,7 +5,7 @@ Windows Registry Editor Version 5.00
 
 "MouseSensitivity"="10"
 "SmoothMouseXCurve"=hex:\
-  00,00,00,00,00,00,00,00,\
+	00,00,00,00,00,00,00,00,\
 	70,3D,0A,00,00,00,00,00,\
 	E0,7A,14,00,00,00,00,00,\
 	50,B8,1E,00,00,00,00,00,\
