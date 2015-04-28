@@ -8,7 +8,7 @@ CSGO
 config files + tweaks and tools I use
 
 - config.cfg with low graphic settings
-- autoexec + buy binds
+- autoexec
 
 
 #### Mousefix noaccel
@@ -19,7 +19,7 @@ Registry Fix for win7+win8 for no mouse accel - 100 DPI
 #### csgo-npp-language 
 
 "CSGO ConfigFile" is a text highlight for Counter-Strike Global Offensive configuration files
-- Copy the xml file I wrote
+- Copy the xml file
 - Open Notepad++ and go to Language > Define your Language > Import
 - Select the file
 - Tadaaaaa magic happends
