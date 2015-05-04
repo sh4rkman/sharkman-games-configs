@@ -1,6 +1,6 @@
 #### CSGO launch options
 
--novid -high -w 1920 -h 1080 -refresh 144 -tickrate 128
+-novid -high -w 1280 -h 960 -refresh 144 -tickrate 128
 
 ##### Description : 
 
