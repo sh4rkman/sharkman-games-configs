@@ -1,12 +1,12 @@
 #### CSGO launch options
 
--novid -high -w 1280 -h 960 -refresh 144 -tickrate 128
-
+-novid -w 1280 -h 960 -freq 144 -language english -tickrate 128
+ 
 ##### Description : 
 
-- high (processor priority)
-- novid (disactive the into)
-- refresh 144 (set the monitor refreshrate)
-- tickrate 128 (set the tickrate of LAN server if you play with bots)
-- w: resolution witdh
-- h: resolution height
+-novid: disactivate the valve logo & shit at startup
+-refresh 144: set the monitor refreshrate
+-tickrate 128: set the tickrate of LAN server if you play with bots
+-w: resolution witdh
+-h: resolution height
+-language: overwrite english to my french CSGO version
