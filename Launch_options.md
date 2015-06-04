@@ -15,4 +15,4 @@
 
 **-h:** resolution height
 
-**-language:** overwrite english to my french CSGO version
+**-language english:** overwrite english to my french CSGO version
