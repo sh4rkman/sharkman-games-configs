@@ -1,6 +1,9 @@
 #### CSGO launch options
 
-> *-novid -w 1280 -h 960 -freq 144 -language english -tickrate 128*
+> *-novid -w 1280 -h 960 -freq 144 -language english -tickrate 128*  
+ 
+ 
+ 
  
 ##### Description : 
 
