@@ -14,7 +14,7 @@ config files + tweaks and tools I use
 #### Mousefix noaccel
 
 Registry Fix for win7+win8 for no mouse accel - 100 DPI
-- courtesy of http://donewmouseaccel.blogspot.fr/2010/03/markc-windows-7-mouse-acceleration-fix.html
+- courtesy of http://donewmouseaccel.blogspot.fr/2010/04/markc-mouse-acceleration-fix-builder.html
 
 #### csgo-npp-language 
 
