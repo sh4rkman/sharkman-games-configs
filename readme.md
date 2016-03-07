@@ -31,10 +31,10 @@ If you have an Nvdia GPU (and if you don't you should) you probably want to acti
 ![Vibrance](http://i.imgur.com/ZnDDuFC.png?1)
 
   
-But if you want to activate NVC for CSGO only, you should use the open source tool VibranceGui :
+But if you want to activate DVC for CSGO only, you should use the open source tool VibranceGui :
 
-:arrow_right: [Official Website](http://vibrancegui.com/ "Dowload")  
-:arrow_right: [Repo on GitHub](https://github.com/juvlarN "Code")  
+- [Official Website](http://vibrancegui.com/ "Dowload")  
+- [Repo on GitHub](https://github.com/juvlarN "Code")  
 
 
 ## Mousefix noaccel
