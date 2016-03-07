@@ -7,8 +7,9 @@
 
 
 **-novid :** disactivate the Valve™ logo & shit at startup  
-**-language english:** overwrite english to my french CSGO version  
-**-refresh 144:** set the monitor refreshrate
+**-freq 144:** set the monitor refreshrate  
+**-language english:** overwrite english over my french CSGO version  
+
 
 
 ##### Others :
