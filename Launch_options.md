@@ -1,22 +1,24 @@
 #### CSGO launch options
 
-> *-novid -w 1280 -h 960 -freq 144 -language english -tickrate 128*  
+> *-novid  -freq 144 -language english -tickrate 128*  
  
  
  
  
-##### Description : 
+##### Must have : 
 
 
-**-novid :** disactivate the valve logo & shit at startup
-
-**-w:** resolution witdh
-
-**-h:** resolution height
-
+**-novid :** disactivate the Valve™ logo & shit at startup  
+**-language english:** overwrite english to my french CSGO version  
 **-refresh 144:** set the monitor refreshrate
 
-**-tickrate 128:** set the tickrate of LAN server if you play with bots
 
+##### Others :
+I'm 99,99% sure this options don't do shit but you can still use it if you're into placebo effect
 
-**-language english:** overwrite english to my french CSGO version
+**-console** Open Console at startup  
+Was usefull back when Source was the thing. Not anymore.  
+**-w & h** resolution  
+It gets forced by autoexec & video.txt anyway    
+**-high** high-priority mode  
+Placebo, you won't gain FPS from that.  
