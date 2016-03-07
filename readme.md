@@ -34,12 +34,12 @@ You are going to mess with your CSGO Install.**
 
 ## VibranceGui
 
-If you have an Nvdia GPU (and if you don't you should) you probably want to activate Digital Vibrance Control :
+If you have an Nvdia GPU (and if you don't you should) you probably want to activate [Digital Vibrance Control](http://www.nvidia.com/object/feature_dvc.html) :
 
 ![Vibrance](http://i.imgur.com/ZnDDuFC.png?1)
 
   
-But if you want to activate DVC for CSGO only, you should use the open source tool VibranceGui :
+But if you want to activate DVC for CSGO only, you should use the Amazing/Open-source tool **VibranceGui** :
 
 - [Official Website](http://vibrancegui.com/ "Dowload")  
 - [Repo on GitHub](https://github.com/juvlarN "Code")  
