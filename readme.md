@@ -1,10 +1,10 @@
 
 # CSGO sh4rkman's Configuration
-====  
+  
 
 
 ## Introduction :
-==== 
+
 
 In this package, you'll find my whole go-to setup for Counter Strike Global Offensive, witch include :  
 
@@ -19,7 +19,7 @@ In this package, you'll find my whole go-to setup for Counter Strike Global Offe
 - Link to the amazing VibranceGUI
 
 ## Download :
-==== 
+
 
 [Download from GitHub](https://github.com/sh4rkman/CSGO_CONFIG/archive/master.zip "Dowload!")  
 
