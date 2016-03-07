@@ -19,6 +19,19 @@ In this package, you'll find my whole go-to setup for Counter Strike Global Offe
 - Link to the amazing VibranceGUI
 
 
+## Installation  
+
+:warning:  
+**If you need a tutorial for using my autoexec & others things, you should probably stop there.  
+You are going to mess with your CSGO Install.**  
+
+- If you know how an autoexec work, some advices anyway :  
+  -  I use `unbind all` then re-bind every keys i use in my autoexec. This way i make sure that nothing will move.   
+  You **have** to replace my keys by yours in the autoexec, otherwise changes will be lost the next time you launch CSGO. Or erase all my binds (you lazy fucks, they are great).
+  -  I use a custom-nonstandard 1440\*1080 resolution in *video.txt*. This is a 4/3 stretched resolution that i like.
+  If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
+  
+
 ## VibranceGui
 
 If you have an Nvdia GPU (and if you don't you should) you probably want to activate Digital Vibrance Control :
