@@ -1,6 +1,5 @@
-Forked since https://github.com/k3nnyfr/csgo
 
-CSGO
+CSGO sh4rkman's Configuration
 ====
 
 #### Counter-Strike Global Offensive *.cfg
