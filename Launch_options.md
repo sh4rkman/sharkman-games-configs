@@ -14,7 +14,7 @@ I'm 99,99% sure this options don't do shit but you can still use it if you're in
 
 **-console** Open Console at startup  
 Was usefull back when Source was the thing. Not anymore.  
-**-w & h** resolution  
+**-w & -h** resolution  
 It gets forced by autoexec & video.txt anyway    
 **-high** high-priority mode  
 Placebo, you won't gain FPS from that.  
