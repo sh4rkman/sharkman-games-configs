@@ -27,7 +27,7 @@ You are going to mess with your CSGO Install.**
 
 - If you know how an autoexec work, some advices anyway :  
   -  I use `unbind all` then re-bind every keys i use in my autoexec. This way i make sure that nothing will move.   
-  You **have** to replace my keys by yours in the autoexec, otherwise changes will be lost the next time you launch CSGO. Or erase all my binds (you lazy fucks, they are great).
+  You **have** to replace my keys with yours in the autoexec, otherwise changes will be lost the next time you launch CSGO. Or erase all my binds (you lazy fucks, they are great).
   -  I use a custom-nonstandard 1440\*1080 resolution in *video.txt*. This is a 4/3 stretched resolution that i like.
   If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
   
