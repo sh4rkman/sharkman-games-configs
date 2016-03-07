@@ -1,10 +1,8 @@
-#### CSGO launch options
+#### My Personal CSGO launch options
 
 > *-novid  -freq 144 -language english -tickrate 128*  
  
- 
- 
- 
+
 ##### Must have : 
 
 
