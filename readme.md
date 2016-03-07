@@ -24,16 +24,6 @@ In this package, you'll find my whole go-to setup for Counter Strike Global Offe
 [Download from GitHub](https://github.com/sh4rkman/CSGO_CONFIG/archive/master.zip "Dowload!")  
 
 
-
-## Counter-Strike Global Offensive *.cfg
-==== 
-
-config files + tweaks and tools I use
-
-
-
-
-
 ## VibranceGui
 
 If you have an Nvdia GPU (and if you don't you should) you probably want to activate Digital Vibrance Control :
