@@ -1,6 +1,6 @@
 
 # CSGO sh4rkman's Configuration
-  
+[Download from GitHub](https://github.com/sh4rkman/CSGO_CONFIG/archive/master.zip "Dowload!")  
 
 
 ## Introduction :
@@ -17,11 +17,6 @@ In this package, you'll find my whole go-to setup for Counter Strike Global Offe
 - Raw_input Fix for Windows
 - CSGO language for Notepad++  
 - Link to the amazing VibranceGUI
-
-## Download :
-
-
-[Download from GitHub](https://github.com/sh4rkman/CSGO_CONFIG/archive/master.zip "Dowload!")  
 
 
 ## VibranceGui
