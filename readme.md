@@ -1,7 +1,10 @@
 
+
+![CSGO](http://i.imgur.com/vdVmWSu.png)  
+====
 # CSGO sh4rkman's Configuration
 
-![Downlaod](http://i.imgur.com/6FsLBIu.png?3)  
+![Downlod](http://i.imgur.com/6FsLBIu.png?3)  
 [Download from GitHub](https://github.com/sh4rkman/CSGO_CONFIG/archive/master.zip "Dowload!")  
 
 
