@@ -71,8 +71,8 @@ You are going to mess with your CSGO Install.**
 	> *-novid  -freq 144 -language english*  
 	 
 	
-	**`-novid` ** Skip the Valve™ logo & shit at startup  
-	**`-freq 144`** force the monitor refreshrate to 144hz. (only if you are using a 144hz monitor. If you have no idea, let get it straight : you don't have a 144hz monitor; don't use -freq.) 
+	**`-novid`** Skip the Valve™ logo & shit at startup  
+	**`-freq 144`** force the monitor refreshrate to 144hz. (only if you are using a 144hz monitor. If you have no idea, let get 		it straight : you don't have a 144hz monitor; don't use -freq.)  
 	**`-language english`** overwrite english over my french CSGO version  
 	
 	
