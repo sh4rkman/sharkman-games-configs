@@ -94,6 +94,8 @@ You are going to mess with your CSGO Install.**
 
 ## Additional Tools
 
+### VibranceGUI
+
 If you have an Nvdia GPU (and if you don't you should) you probably want to activate [Digital Vibrance Control](http://www.nvidia.com/object/feature_dvc.html) :
 
 ![Vibrance](http://i.imgur.com/ZnDDuFC.png?1)
@@ -105,7 +107,7 @@ But if you want to activate DVC for CSGO only, you should use the Amazing/Open-s
 - [Repo on GitHub](https://github.com/juvlarN "Code")  
 
 
-## Mousefix noaccel
+### The MarkC Windows Mouse Acceleration Fix
 
 Only if you are stuck on a old Windows version  (XP/7/8/8.1), you might want to use MarkC fix for real rawinput.  
 
@@ -113,7 +115,7 @@ Registry Fix for win7+win8 for no mouse accel - 100 DPI
 - courtesy of http://donewmouseaccel.blogspot.fr/2010/04/markc-mouse-acceleration-fix-builder.html
 
 
-## csgo-npp-language 
+### csgo-npp-language 
 
 
 If you are a true autoexec maniac like me, you maybe want this Notepad++ theme :
