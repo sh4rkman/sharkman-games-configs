@@ -37,9 +37,11 @@ In this package, you'll find my whole go-to setup for Counter Strike Global Offe
 ## Sommaire
 
 - [Introduction](#introduction)
-- [Installation  ](#installation)
-- [Les Données](#les-données)
-- [Les Technologies](#les-technologies)
+- [Installation](#installation)
+- [LAdditional Tools](#additional_Tools)
+- [Mousefix noaccel](#mousefix_noaccel)
+- [csgo-npp-language](#csgo-npp-language)
+
 
 ## Introduction :
 
@@ -84,7 +86,7 @@ You are going to mess with your CSGO Install.**
 	
 	There is nothing to edit in this file. It contains the lowest/best video settings for the game. If you still want to change some settings because you prefere anti-aliasing x8 or whatever, use the game menu; it will write this file with your changes.
 	
-	![Vibrance](http://i.imgur.com/KUcpO8l.pg)  
+	![Vibrance](http://i.imgur.com/KUcpO8l.png)  
 	
 	FYI, I use a *custom-non-standard* **1440\*1080** resolution in `video.txt`. This is a 4/3 stretched resolution that i like.  If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
   
@@ -119,51 +121,6 @@ You are going to mess with your CSGO Install.**
 
 
 ## Additional Tools
-
-If you have an Nvdia GPU (and if you don't you should) you probably want to activate [Digital Vibrance Control](http://www.nvidia.com/object/feature_dvc.html) :
-
-![Vibrance](http://i.imgur.com/ZnDDuFC.png?1)
-
-  
-But if you want to activate DVC for CSGO only, you should use the Amazing/Open-source tool **VibranceGui** :
-
-- [Official Website](http://vibrancegui.com/ "Dowload")  
-- [Repo on GitHub](https://github.com/juvlarN "Code")  
-
-
-## Mousefix noaccel
-
-Only if you are stuck on a old Windows version  (XP/7/8/8.1), you might want to use MarkC fix for real rawinput.  
-
-Registry Fix for win7+win8 for no mouse accel - 100 DPI
-- courtesy of http://donewmouseaccel.blogspot.fr/2010/04/markc-mouse-acceleration-fix-builder.html
-
-
-## csgo-npp-language 
-
-
-If you are a true autoexec maniac like me, you maybe want this Notepad++ theme :
-- Copy the xml file
-- Open Notepad++ and go to Language > Define your Language > Import
-- Select the file
-- Tadaaaaa magic happends
-
-![Screenshot](http://i.imgur.com/a697ncN.png)
-
-
-
-:warning:  
-**If you need a tutorial for using my autoexec & others things, you should probably stop there.  
-You are going to mess with your CSGO Install.**  
-
-- **If you know how an autoexec work, here's some advices anyway :**  
-  -  I use `unbind all` then re-bind every keys i use in my autoexec. This way i make sure that nothing will move.   
-  You **have** to replace my keys with yours in the autoexec, otherwise changes will be lost the next time you launch CSGO. Or erase all my binds (you lazy fucks, they are great).
-  -  I use a custom-nonstandard 1440\*1080 resolution in *video.txt*. This is a 4/3 stretched resolution that i like.
-  If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
-  
-
-## VibranceGui
 
 If you have an Nvdia GPU (and if you don't you should) you probably want to activate [Digital Vibrance Control](http://www.nvidia.com/object/feature_dvc.html) :
 
