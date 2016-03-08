@@ -11,8 +11,9 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Additional Tools](#additional_Tools)
-- [Mousefix noaccel](#mousefix_noaccel)
-- [csgo-npp-language](#csgo-npp-language)
+	- [VibranceGUI](#vibranceGUI)
+	- [Mousefix noaccel](#mousefix_noaccel)
+	- [csgo-npp-language](#csgo-npp-language)
 
 
 ## Introduction
