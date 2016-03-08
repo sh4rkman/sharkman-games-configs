@@ -12,7 +12,7 @@
 - [Installation](#installation)
 - [Additional Tools](#additional_Tools)
 	- [VibranceGUI](#vibrancegui)
-	- [Mousefix noaccel](#mousefix_noaccel)
+	- [Mousefix noaccel](#the_markc_windows_mouse_acceleration_fix)
 	- [CSGO Notepad++ Theme](#csgo-npp-language)
 
 
