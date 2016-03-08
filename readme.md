@@ -11,9 +11,9 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Additional Tools](#additional_Tools)
-	- [VibranceGUI](#vibranceGUI)
+	- [VibranceGUI](#vibrancegui)
 	- [Mousefix noaccel](#mousefix_noaccel)
-	- [csgo-npp-language](#csgo-npp-language)
+	- [CSGO Notepad++ Theme](#csgo-npp-language)
 
 
 ## Introduction
