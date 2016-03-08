@@ -10,17 +10,17 @@
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [LAdditional Tools](#additional_Tools)
+- [Additional Tools](#additional_Tools)
 - [Mousefix noaccel](#mousefix_noaccel)
 - [csgo-npp-language](#csgo-npp-language)
 
 
-## Introduction :
+## Introduction
 
 
 In this package, you'll find my whole *go-to* setup for Counter Strike Global Offensive, witch include :  
 
-#####Configurations Files :
+#####Configurations Files  :
 - **autoexec.cfg** with all my personal sweet binds and alias
 - **video.txt** with low graphic settings (and a custom 1440*1080 4/3 resolution)
 - **training.cfg** for flash/smoke practicing (require sv_cheats 1)  
