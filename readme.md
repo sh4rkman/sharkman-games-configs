@@ -37,7 +37,8 @@ In this package, you'll find my whole *go-to* setup for Counter Strike Global Of
 :warning:  
 ##### Disclamer :  
 **If you need a tutorial for using my autoexec & others things, you should probably stop there.  
-You are going to mess with your CSGO Install.**  
+You are going to mess with your CSGO Install.**
+
 
  If you know how an autoexec work, here's some advices anyway :  
  
@@ -47,7 +48,9 @@ You are going to mess with your CSGO Install.**
  
  3.  **Edit autoexec.cfg with your own preference**  
  
-	 I use `unbind all` ***then*** re-bind every keys i use in my autoexec. This way i make sure that nothing will move.  You ***have*** to replace my keys with yours in the autoexec, otherwise changes will be lost the next time you launch CSGO. Or erase all my binds (you lazy fucks, they are great).  
+	 I use `unbind all` ***then*** re-bind every keys i use in my autoexec. This way i make sure that nothing will move.  You ***have*** to replace my keys with yours in the autoexec, otherwise changes will be lost the next time you launch CSGO. 
+	
+	Or You can erase all my binds (you lazy fucks, they are great).  
 	 
 	 ![binds](http://i.imgur.com/C5t4uRX.png?2)
 
