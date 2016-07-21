@@ -3,7 +3,7 @@
 # CSGO sh4rkman's Configuration
 
 ![Download_logo](http://i.imgur.com/6FsLBIu.png?3)  
-[Download from GitHub](https://github.com/sh4rkman/CSGO_CONFIG/archive/master.zip "Dowload!")  
+[Download latest version](https://github.com/sh4rkman/CSGO_CONFIG/releases/ "Dowload!")  
 
 
 ## Sommaire
