@@ -14,7 +14,7 @@
  	- [SimpleRadar](#simple-radar)
 	- [VibranceGUI](#vibrancegui)
 	- [Mousefix noaccel](#the-markc-windows-mouse-acceleration-fix)
-	- [CSGO Notepad++ Theme](#csgo-npp-language)
+	- [CSGO Notepad++ Theme](#csgo-notepad++-theme)
 
 
 ## Introduction
@@ -135,7 +135,7 @@ Registry Fix for win7+win8 for no mouse accel - 100 DPI
 - courtesy of http://donewmouseaccel.blogspot.fr/2010/04/markc-mouse-acceleration-fix-builder.html
 
 
-### csgo-npp-language 
+### CSGO Notepad++ Theme 
 
 
 If you are a true autoexec maniac like me, you maybe want this Notepad++ theme :
