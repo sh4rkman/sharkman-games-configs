@@ -98,6 +98,21 @@ You are going to mess with your CSGO Install.**
 
 ## Additional Tools
 
+
+### Simple Radar
+
+The best CSGO Radar right now.  
+You need to check it out if you don't know it yet.
+
+
+![Simple Radar](http://simpleradar.com/asdf.png?1)
+
+Here you can download our radar for all finished maps. After downloading, you'll have to replace original game files located in 
+\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\overviews 
+
+- [Official Website](http://simpleradar.com/ "Dowload")  
+
+
 ### VibranceGUI
 
 If you have an Nvdia GPU (and if you don't you should) you probably want to activate [Digital Vibrance Control](http://www.nvidia.com/object/feature_dvc.html) :
