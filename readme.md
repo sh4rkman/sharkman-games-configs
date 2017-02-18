@@ -11,7 +11,7 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Additional Tools](#additional_Tools)
-        - [SimpleRadar](#simple_radar)
+ 	- [SimpleRadar](#simple_radar)
 	- [VibranceGUI](#vibrancegui)
 	- [Mousefix noaccel](#the_markc_windows_mouse_acceleration_fix)
 	- [CSGO Notepad++ Theme](#csgo-npp-language)
