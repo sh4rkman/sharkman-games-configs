@@ -51,21 +51,21 @@ You are going to mess with your CSGO Install.**
  
 	 I use `unbind all` ***then*** re-bind every keys i use in my autoexec. This way i make sure that nothing will move.  You ***have*** to replace my keys with yours in the autoexec, otherwise changes will be lost the next time you launch CSGO. 
 	
-	Or You can erase all my binds (you lazy fucks, they are great).  
+Or You can erase all my binds (you lazy fucks, they are great).  
 	 
-	 ![binds](http://i.imgur.com/C5t4uRX.png?2)
+![binds](http://i.imgur.com/C5t4uRX.png?2)
 
  4.  **Choose your Resolution**   
  
 
 
-	Copy & Replace `video.txt` into `..\Steam\steamapps\CounterStrickGlobalOffensive\csgo\`  
+Copy & Replace `video.txt` into `..\Steam\steamapps\CounterStrickGlobalOffensive\csgo\`  
 	
-	There is nothing to edit in this file. It contains the lowest/best video settings for the game. If you still want to change some settings because you prefere anti-aliasing x8 or whatever, use the game menu; it will write this file with your changes.
+There is nothing to edit in this file. It contains the lowest/best video settings for the game. If you still want to change some settings because you prefere anti-aliasing x8 or whatever, use the game menu; it will write this file with your changes.
 	
-	![Vibrance](http://i.imgur.com/KUcpO8l.png)  
+![Vibrance](http://i.imgur.com/KUcpO8l.png)  
 	
-	FYI, I use a *custom-non-standard* **1440\*1080** resolution in `video.txt`. This is a 4/3 stretched resolution that i like.  If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
+FYI, I use a *custom-non-standard* **1440\*1080** resolution in `video.txt`. This is a 4/3 stretched resolution that i like.  If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
   
  5. **Setup your launch options**   
 
