@@ -24,13 +24,15 @@ In this package, you'll find my whole *go-to* setup for Counter Strike Global Of
 
 ##### Configurations Files  :
 - **autoexec.cfg** with all my personal sweet binds and alias
-- **video.txt** with low graphic settings (and a custom 1440*1080 4/3 resolution)
+- **video.txt** with optimzed-low graphic settings
 - **training.cfg** for flash/smoke practicing (require sv_cheats 1)  
 
 ##### Various Tools & Guides :  
-- Raw_input Fix for Windows
+- MarkC Raw_input Fix for Windows 8 or less
 - CSGO language for Notepad++  
-- Link to the amazing VibranceGUI
+- VibranceGUI  
+- SimpleRadar  
+
 
 
 ## Installation  
@@ -61,11 +63,13 @@ Or You can erase all my binds (you lazy fucks, they are great).
 
 Copy & Replace `video.txt` into `..\Steam\steamapps\CounterStrickGlobalOffensive\csgo\`  
 	
-There is nothing to edit in this file. It contains the lowest/best video settings for the game. If you still want to change some settings because you prefere anti-aliasing x8 or whatever, use the game menu; it will write this file with your changes.
+There is nothing to edit in this file but your resolution. It contains the lowest/best video settings for the game imho. If you still want to change some settings because you prefere anti-aliasing x8 or whatever, use the game menu; it will write this file with your changes.
 	
 ![Vibrance](http://i.imgur.com/KUcpO8l.png)  
 	
-FYI, I use a *custom-non-standard* **1440\*1080** resolution in `video.txt`. This is a 4/3 stretched resolution that i like.  If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
+Right now, i'm using a standart 16/9 - 1920\*1080 resolution stretched on a 21/9 monitor.  
+
+If you have a standart 16/9 monitor, I suggest to use a *custom-non-standard* **1440\*1080** resolution. This is a 4/3 stretched resolution that i used to have before getting an ultrawide.  If you want to be able to use it, you need to create it first in your Nvidia Control Panel. ([Tutorial here for Nvidia](http://www.nvidia.com/object/custom_resolutions.html))
   
  5. **Setup your launch options**   
 
