@@ -24,7 +24,6 @@ In this package, you'll find my whole *go-to* setup for Counter Strike Global Of
 
 ##### Configurations Files  :
 - **autoexec.cfg** with all my personal sweet binds and alias
-- **video.txt** with optimzed-low graphic settings
 - **training.cfg** for flash/smoke practicing (require sv_cheats 1)  
 
 ##### Various Tools & Guides :  
