@@ -109,7 +109,7 @@ The best CSGO Radar right now.
 You need to check it out if you don't know it yet.
 
 
-![Simple Radar](http://simpleradar.com/asdf.png?1)
+![Simple Radar](http://simpleradar.com/assets/images/v2header.png?1)
 
 Here you can download our radar for all finished maps. After downloading, you'll have to replace original game files located in 
 \Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\overviews 
